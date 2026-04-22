@@ -30,6 +30,25 @@ function formatPrice(price, currency = 'BRL') {
   }).format(price);
 }
 
+// ── Badge de disponibilidade ──
+function availabilityBadge(availability) {
+  if (!availability) return '';
+  const isStock = availability === 'Em Estoque';
+  const color = isStock ? '#00c853' : '#ff9800';
+  const icon  = isStock ? '✅' : '🕐';
+  return `<span class="card-availability" style="
+    display: inline-block;
+    background: ${color}22;
+    color: ${color};
+    border: 1px solid ${color};
+    border-radius: 20px;
+    padding: 2px 10px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    margin-bottom: 6px;
+  ">${icon} ${availability}</span>`;
+}
+
 // ── Gera o HTML de um card ──
 function cardHTML(p) {
   return `
@@ -51,6 +70,7 @@ function cardHTML(p) {
           <a href="product.html?id=${p.id}" class="card-name-link">${p.name}</a>
         </h2>
         <p class="card-country">${p.flag} ${p.country_name}</p>
+        ${availabilityBadge(p.availability)}
         
         <div class="card-footer">
           <div class="card-price">
