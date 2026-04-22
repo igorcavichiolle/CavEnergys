@@ -18,7 +18,7 @@
       "Images/independencia2.png",
       "Images/independencia3.png"
     ],
-    "video": "Videos/independencia.MP4"
+    "video": "Videos/independencia.mp4"
   },
   {
     "id": 2,
@@ -40,6 +40,6 @@
       "Images/reservewatermelon3.png",
       "Images/reservewatermelon4.png"
     ],
-    "video": "Videos/reservewatermelon.MP4"
+    "video": "Videos/reservewatermelon.mp4"
   }
 ]
