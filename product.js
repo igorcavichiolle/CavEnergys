@@ -115,10 +115,12 @@ function fillDetails(p) {
     document.querySelector('.video-section').style.display = 'none';
   }
 
-  // Botão de interesse (exemplo: WhatsApp)
+// Botão de interesse (exemplo: WhatsApp)
   document.getElementById('buyBtn').addEventListener('click', () => {
     const msg = encodeURIComponent(`Olá! Tenho interesse no produto: ${p.name} — R$ ${p.price.toFixed(2).replace('.', ',')}`);
-    window.open(`https://wa.me/?text=${msg}`, '_blank');
+    
+    // Adicionado o seu número 55 (Brasil) + 19 (DDD) + número
+    window.open(`https://wa.me/5519994828134?text=${msg}`, '_blank');
   });
 }
 
