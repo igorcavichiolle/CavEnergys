@@ -102,12 +102,47 @@
     "flag": "🇮🇪",
     "image": "Images/landonorris.png",
     "images": [
-      "Images/landonorris.png",
-      "Images/landonorris1.png",
-      "Images/landonorris2.png",
-      "Images/landonorris3.png"
+      "Images/landonorris.png"
     ],
     "video": "Videos/landonorris.mp4",
+    "availability": "Em Estoque"
+  },
+    {
+    "id": 6,
+    "name": "Monster Energy Super Nitro Dry Irlandesa 500ML",
+    "description": "Monster Energy Nitro Super Dry 500ml (Importado Irlanda). Energético com infusão de óxido nitroso para uma textura cremosa e leve. Sabor cítrico intenso com acabamento seco e refrescante. Item exclusivo para colecionadores e apreciadores de sabores raros.",
+    "price": 30,
+    "currency": "BRL",
+    "country": "US",
+    "country_name": "Irlanda",
+    "production_date": "2026-01-01",
+    "condition": "Lacrada sem amassados",
+    "origin": "Importado da Irlanda",
+    "flag": "🇮🇪",
+    "image": "Images/superdry.png",
+    "images": [
+      "Images/superdry.png"
+    ],
+    "video": "Videos/superdry.mp4",
+    "availability": "Em Estoque"
+  },
+    {
+    "id": 7,
+    "name": "Monster Energy Aussie Lemonade Irlandesa 500ML",
+    "description": "Monster Energy Aussie Style Lemonade 500ml (Importado Irlanda). Inspirado nas limonadas artesanais australianas, oferece um sabor cítrico refrescante e equilibrado. Lata com design exclusivo e detalhado, ideal para colecionadores e amantes de bebidas premium.",
+    "price": 30,
+    "currency": "BRL",
+    "country": "US",
+    "country_name": "Irlanda",
+    "production_date": "2026-01-01",
+    "condition": "Lacrada sem amassados",
+    "origin": "Importado da Irlanda",
+    "flag": "🇮🇪",
+    "image": "Images/aussielemonade.png",
+    "images": [
+      "Images/aussielemonade.png"
+    ],
+    "video": "Videos/aussielemonade.mp4",
     "availability": "Em Estoque"
   }
 ]
