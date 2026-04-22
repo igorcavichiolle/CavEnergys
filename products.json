@@ -18,12 +18,13 @@
       "Images/independencia2.png",
       "Images/independencia3.png"
     ],
-    "video": "Videos/independencia.mp4"
+    "video": "Videos/independencia.mp4",
+    "availability": "Em Estoque"
   },
   {
     "id": 2,
     "name": "Monster Reserve Watermelon EUA 473ML - Descontinuado",
-    "description": "MONSTER ENERGY RESERVE WATERMELON - EDICAO DESCONTINUADA ATENCAO COLECIONADOR: Voce esta diante de uma reliquia! A linha Reserve Watermelon teve sua fabricacao encerrada e esta oficialmente DESCONTINUADA. Esta e uma das ultimas oportunidades de garantir essa lata iconica para a sua prateleira ou para sentir o sabor autentico da melancia Reserve uma ultima vez. Diferente da linha Ultra, a linha Reserve traz o sabor maximo com a pegada classica do Monster original (com acucar), proporcionando uma experiencia muito mais intensa e marcante. DIFERENCIAIS DESTE ANUNCIO PRODUTO RARO: Nao e mais fabricado. Item de alto valor de revenda e valorizacao para colecoes. DENTRO DA VALIDADE: Apesar de descontinuada, a lata esta PRONTA PARA O CONSUMO. Voce pode beber com seguranca ou manter lacrada. ESTADO DA LATA: Selecionamos as melhores unidades para garantir que cheguem sem amassados significativos (item de colecionador). ENVIO SEGURO: Sabemos o valor que essa lata tem. Embalamos com plastico bolha e protecao extra para que ela chegue impecavel. ESPECIFICACOES Sabor: Watermelon (Melancia Intensa) Linha: Reserve Volume: 473ml Origem: Importada / Edicao Especial Dica: Por ser um item que nao volta mais ao estoque, as unidades sao extremamente limitadas. Nao perca a chance de completar sua colecao! GARANTA A SUA AGORA ANTES QUE O ESTOQUE ACABE DEFINITIVAMENTE!",    
+    "description": "MONSTER ENERGY RESERVE WATERMELON - EDICAO DESCONTINUADA ATENCAO COLECIONADOR: Voce esta diante de uma reliquia! A linha Reserve Watermelon teve sua fabricacao encerrada e esta oficialmente DESCONTINUADA. Esta e uma das ultimas oportunidades de garantir essa lata iconica para a sua prateleira ou para sentir o sabor autentico da melancia Reserve uma ultima vez. Diferente da linha Ultra, a linha Reserve traz o sabor maximo com a pegada classica do Monster original (com acucar), proporcionando uma experiencia muito mais intensa e marcante. DIFERENCIAIS DESTE ANUNCIO PRODUTO RARO: Nao e mais fabricado. Item de alto valor de revenda e valorizacao para colecoes. DENTRO DA VALIDADE: Apesar de descontinuada, a lata esta PRONTA PARA O CONSUMO. Voce pode beber com seguranca ou manter lacrada. ESTADO DA LATA: Selecionamos as melhores unidades para garantir que cheguem sem amassados significativos (item de colecionador). ENVIO SEGURO: Sabemos o valor que essa lata tem. Embalamos com plastico bolha e protecao extra para que ela chegue impecavel. ESPECIFICACOES Sabor: Watermelon (Melancia Intensa) Linha: Reserve Volume: 473ml Origem: Importada / Edicao Especial Dica: Por ser um item que nao volta mais ao estoque, as unidades sao extremamente limitadas. Nao perca a chance de completar sua colecao! GARANTA A SUA AGORA ANTES QUE O ESTOQUE ACABE DEFINITIVAMENTE!",
     "price": 180,
     "currency": "BRL",
     "country": "US",
@@ -40,6 +41,7 @@
       "Images/reservewatermelon3.png",
       "Images/reservewatermelon4.png"
     ],
-    "video": "Videos/reservewatermelon.mp4"
+    "video": "Videos/reservewatermelon.mp4",
+    "availability": "Em Breve"
   }
 ]
