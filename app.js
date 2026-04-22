@@ -36,16 +36,19 @@ function availabilityBadge(availability) {
   const isStock = availability === 'Em Estoque';
   const color = isStock ? '#00c853' : '#ff9800';
   const icon  = isStock ? '✅' : '🕐';
+  
   return `<span class="card-availability" style="
     display: inline-block;
+    width: max-content; 
     background: ${color}22;
     color: ${color};
     border: 1px solid ${color};
     border-radius: 20px;
-    padding: 2px 10px;
-    font-size: 0.75rem;
+    padding: 1px 6px; 
+    font-size: 0.65rem; 
     font-weight: 600;
     margin-bottom: 6px;
+    line-height: 1.2;
   ">${icon} ${availability}</span>`;
 }
 
