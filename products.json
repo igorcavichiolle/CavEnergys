@@ -91,8 +91,7 @@
    {
     "id": 5,
     "name": "Monster Energy Java, Mean Bean, Energy + Coffee, Energy Drink, 443ML",
-    "description": "<p>O <strong>Monster Java Mean Bean</strong> é a combinação perfeita entre a energia bruta da Monster e o sabor sofisticado do café premium. Inspirado nas melhores cafeterias, este 'Coffee + Energy' oferece um sabor cremoso de baunilha com um toque de doçura na medida certa, sem a amargura excessiva do café tradicional.</p><br><p>Diferente das bebidas energéticas comuns, a linha Java é feita com café real e leite, proporcionando uma textura suave e encorpada. É a escolha ideal para quem precisa de um impulso extra logo pela manhã ou para enfrentar uma tarde produtiva com um sabor reconfortante e familiar.</p><br><p><strong>Principais características:</strong></p><ul><li>Sabor: Baunilha cremosa e café premium.</li><li>Textura: Smooth e levemente encorpada.</li><li>Contém a mistura energética clássica da Monster (Taurina, Ginseng e Vitaminas do grupo B).</li><li>Lata colecionável com design icônico da linha Java.</li></ul>",
-    "price": 170,
+    "description": "<strong>Monster Java Mean Bean</strong> é a combinação perfeita entre a energia bruta da Monster e o sabor sofisticado do café premium. Inspirado nas melhores cafeterias, este 'Coffee + Energy' oferece um sabor cremoso de baunilha com um toque de doçura na medida certa.<br><br>Diferente das bebidas energéticas comuns, a linha Java é feita com café real e leite, proporcionando uma textura suave e encorpada. É a escolha ideal para quem precisa de um impulso extra logo pela manhã.<br><br><strong>Principais características:</strong><br>• Sabor: Baunilha cremosa e café premium.<br>• Textura: Smooth e levemente encorpada.<br>• Contém Taurina, Ginseng e Vitaminas do grupo B.<br>• Lata colecionável com design icônico.",    "price": 170,
     "currency": "BRL",
     "country": "US",
     "country_name": "Estados Unidos",
