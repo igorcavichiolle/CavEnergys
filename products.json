@@ -88,8 +88,30 @@
     "video": "Videos/saltedcaramel.mp4",
     "availability": "Em Estoque"
   },
-  {
+   {
     "id": 5,
+    "name": "Monster Energy Java, Mean Bean, Energy + Coffee, Energy Drink, 443ML",
+    "description": "<p>O <strong>Monster Java Mean Bean</strong> é a combinação perfeita entre a energia bruta da Monster e o sabor sofisticado do café premium. Inspirado nas melhores cafeterias, este 'Coffee + Energy' oferece um sabor cremoso de baunilha com um toque de doçura na medida certa, sem a amargura excessiva do café tradicional.</p><br><p>Diferente das bebidas energéticas comuns, a linha Java é feita com café real e leite, proporcionando uma textura suave e encorpada. É a escolha ideal para quem precisa de um impulso extra logo pela manhã ou para enfrentar uma tarde produtiva com um sabor reconfortante e familiar.</p><br><p><strong>Principais características:</strong></p><ul><li>Sabor: Baunilha cremosa e café premium.</li><li>Textura: Smooth e levemente encorpada.</li><li>Contém a mistura energética clássica da Monster (Taurina, Ginseng e Vitaminas do grupo B).</li><li>Lata colecionável com design icônico da linha Java.</li></ul>",
+    "price": 170,
+    "currency": "BRL",
+    "country": "US",
+    "country_name": "Estados Unidos",
+    "production_date": "2026-01-01",
+    "condition": "Lacrada sem amassados",
+    "origin": "Importado dos EUA",
+    "flag": "🇺🇸",
+    "image": "Images/meanbean.png",
+    "images": [
+      "Images/meanbean.png",
+      "Images/meanbean1.png",
+      "Images/meanbean2.png",
+      "Images/meanbean3.png"
+    ],
+    "video": "Videos/meanbean.mp4",
+    "availability": "Em Estoque"
+  },
+  {
+    "id": 6,
     "name": "Monster Energy Lando Norris Zero Cucku (Zero Açucar) Irlandesa 500ML",
     "description": "Edição especial e limitada Monster Energy Juiced Lando Norris LN4. Desenvolvida em colaboração com o piloto de Fórmula 1, esta versão de 500ml traz um sabor cítrico refrescante e leve, inspirado nas preferências de Lando. A lata apresenta um design exclusivo em amarelo neon e preto com a icônica logomarca LN4, sendo um item de destaque tanto pelo paladar quanto pelo valor colecionável para fãs de automobilismo. Contém o clássico combo energético de taurina, cafeína e vitaminas do complexo B.",
     "price": 30,
@@ -108,7 +130,7 @@
     "availability": "Em Estoque"
   },
     {
-    "id": 6,
+    "id": 7,
     "name": "Monster Energy Super Nitro Dry Irlandesa 500ML",
     "description": "Monster Energy Nitro Super Dry 500ml (Importado Irlanda). Energético com infusão de óxido nitroso para uma textura cremosa e leve. Sabor cítrico intenso com acabamento seco e refrescante. Item exclusivo para colecionadores e apreciadores de sabores raros.",
     "price": 30,
@@ -127,7 +149,7 @@
     "availability": "Em Estoque"
   },
     {
-    "id": 7,
+    "id": 8,
     "name": "Monster Energy Aussie Lemonade Irlandesa 500ML",
     "description": "Monster Energy Aussie Style Lemonade 500ml (Importado Irlanda). Inspirado nas limonadas artesanais australianas, oferece um sabor cítrico refrescante e equilibrado. Lata com design exclusivo e detalhado, ideal para colecionadores e amantes de bebidas premium.",
     "price": 30,
