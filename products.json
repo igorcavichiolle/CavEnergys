@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "name": "Monster Ultra Red White & Blue Razz EUA 473ML Independencia",
+    "description": "Monster Energy Ultra Red, White & Blue Razz - Edição Especial Importada SINTA O GOSTO DA LIBERDADE! Chegou a edição que faltava na sua coleção! O Monster Ultra Red, White & Blue Razz traz uma explosão de sabor inspirada no clássico Ice Pop americano (o famoso geladinho de framboesa azul, cereja e limão), mas com a pegada energética que você já conhece. Tudo isso com a leveza da linha Ultra: ZERO AÇÚCAR e ZERO CALORIAS. Por que garantir o seu agora? Edição Importada: Design exclusivo com a bandeira dos EUA e detalhes em relevo. Sabor Incomparável: Mistura refrescante de frutas vermelhas com o toque cítrico da framboesa azul. Item de Colecionador: Perfeito para quem busca as latas mais raras e icônicas da marca. Envio Seguro: Sabemos o valor da sua coleção. Enviamos com plástico bolha e proteção reforçada para a lata chegar impecável (sem amassados!). Informações Técnicas: Marca: Monster Energy Linha: Ultra (Zero Sugar) Sabor: Red, White & Blue Razz (Framboesa Azul e Frutas Vermelhas) Volume: 473ml Origem: Estados Unidos ESTOQUE LIMITADO: Por ser um produto importado e de edição especial, as unidades esgotam rápido. Garanta a sua antes que saia de linha! Dúvidas? Chame no chat, será um prazer atender você, colecionador!",
+    "price": 200,
+    "currency": "BRL",
+    "country": "US",
+    "country_name": "Estados Unidos",
+    "production_date": "2025-11-17",
+    "condition": "Lacrada sem amassados",
+    "origin": "Importado dos EUA",
+    "flag": "🇺🇸",
+    "image": "Images/independencia.png",
+    "images": [
+      "Images/independencia.png",
+      "Images/independencia1.png",
+      "Images/independencia2.png",
+      "Images/independencia3.png"
+    ],
+    "video": "Videos/independencia.MP4"
+  },
+  {
+    "id": 2,
+    "name": "Monster Reserve Watermelon EUA 473ML - Descontinuado",
+    "description": "MONSTER ENERGY RESERVE WATERMELON - EDICAO DESCONTINUADA ATENCAO COLECIONADOR: Voce esta diante de uma reliquia! A linha Reserve Watermelon teve sua fabricacao encerrada e esta oficialmente DESCONTINUADA. Esta e uma das ultimas oportunidades de garantir essa lata iconica para a sua prateleira ou para sentir o sabor autentico da melancia Reserve uma ultima vez. Diferente da linha Ultra, a linha Reserve traz o sabor maximo com a pegada classica do Monster original (com acucar), proporcionando uma experiencia muito mais intensa e marcante. DIFERENCIAIS DESTE ANUNCIO PRODUTO RARO: Nao e mais fabricado. Item de alto valor de revenda e valorizacao para colecoes. DENTRO DA VALIDADE: Apesar de descontinuada, a lata esta PRONTA PARA O CONSUMO. Voce pode beber com seguranca ou manter lacrada. ESTADO DA LATA: Selecionamos as melhores unidades para garantir que cheguem sem amassados significativos (item de colecionador). ENVIO SEGURO: Sabemos o valor que essa lata tem. Embalamos com plastico bolha e protecao extra para que ela chegue impecavel. ESPECIFICACOES Sabor: Watermelon (Melancia Intensa) Linha: Reserve Volume: 473ml Origem: Importada / Edicao Especial Dica: Por ser um item que nao volta mais ao estoque, as unidades sao extremamente limitadas. Nao perca a chance de completar sua colecao! GARANTA A SUA AGORA ANTES QUE O ESTOQUE ACABE DEFINITIVAMENTE!",    
+    "price": 180,
+    "currency": "BRL",
+    "country": "US",
+    "country_name": "Estados Unidos",
+    "production_date": "2025-11-17",
+    "condition": "Lacrada sem amassados",
+    "origin": "Importado dos EUA",
+    "flag": "🇺🇸",
+    "image": "Images/reservewatermelon.png",
+    "images": [
+      "Images/reservewatermelon.png",
+      "Images/reservewatermelon1.png",
+      "Images/reservewatermelon2.png",
+      "Images/reservewatermelon3.png",
+      "Images/reservewatermelon5.png"
+    ],
+    "video": "Videos/reservewatermelon.MP4"
+  }
+]

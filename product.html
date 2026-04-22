@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>CavEnergys — Detalhes do Produto</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="product.css" />
+</head>
+<body>
+
+  <header>
+    <div class="header-inner">
+      <div class="logo">
+        <a href="index.html" class="logo-link">
+          <span class="logo-icon">⚡</span>
+          <span class="logo-text">Cav<strong>Energys</strong></span>
+        </a>
+      </div>
+      <a href="index.html" class="back-btn">← Voltar ao catálogo</a>
+    </div>
+  </header>
+
+  <main id="productMain">
+    <!-- Skeleton enquanto carrega -->
+    <div class="detail-skeleton" id="skeleton">
+      <div class="skeleton-gallery">
+        <div class="skeleton sk-main-img"></div>
+        <div class="skeleton-thumbs">
+          <div class="skeleton sk-thumb"></div>
+          <div class="skeleton sk-thumb"></div>
+          <div class="skeleton sk-thumb"></div>
+        </div>
+      </div>
+      <div class="skeleton-info">
+        <div class="skeleton sk-title"></div>
+        <div class="skeleton sk-subtitle"></div>
+        <div class="skeleton sk-text"></div>
+        <div class="skeleton sk-text short"></div>
+        <div class="skeleton sk-price"></div>
+      </div>
+    </div>
+
+    <!-- Conteúdo real (oculto até carregar) -->
+    <div class="product-detail" id="productDetail" style="display:none;">
+
+      <!-- Galeria -->
+      <div class="gallery">
+        <div class="carousel">
+          <button class="carousel-btn prev" id="prevBtn">&#8249;</button>
+          <div class="carousel-track-wrap">
+            <div class="carousel-track" id="carouselTrack"></div>
+          </div>
+          <button class="carousel-btn next" id="nextBtn">&#8250;</button>
+          <div class="carousel-dots" id="carouselDots"></div>
+        </div>
+
+        <div class="thumbnails" id="thumbnails"></div>
+
+        <!-- Vídeo -->
+        <div class="video-section">
+          <h3 class="section-label">🎬 Vídeo do produto</h3>
+          <video id="productVideo" controls playsinline>
+            <source id="videoSource" src="" type="video/mp4" />
+            Seu navegador não suporta vídeo.
+          </video>
+        </div>
+      </div>
+
+      <!-- Informações -->
+      <div class="info">
+        <div class="info-top">
+          <span class="info-flag" id="infoFlag"></span>
+          <span class="info-country" id="infoCountry"></span>
+        </div>
+
+        <h1 class="info-title" id="infoTitle"></h1>
+
+        <div class="info-price" id="infoPrice"></div>
+
+        <div class="info-badges">
+          <span class="badge badge-condition" id="badgeCondition"></span>
+          <span class="badge badge-country" id="badgeCountry2"></span>
+        </div>
+
+        <p class="info-description" id="infoDescription"></p>
+
+        <div class="info-grid">
+          <div class="info-item">
+            <span class="info-label">📦 Origem</span>
+            <span class="info-value" id="infoOrigin"></span>
+          </div>
+          <div class="info-item">
+            <span class="info-label">📅 Data de produção</span>
+            <span class="info-value" id="infoDate"></span>
+          </div>
+          <div class="info-item">
+            <span class="info-label">🌍 País</span>
+            <span class="info-value" id="infoCountryFull"></span>
+          </div>
+          <div class="info-item">
+            <span class="info-label">✅ Condição</span>
+            <span class="info-value" id="infoCondition"></span>
+          </div>
+        </div>
+
+        <button class="buy-btn" id="buyBtn">⚡ Tenho interesse</button>
+      </div>
+
+    </div>
+
+    <div class="not-found" id="notFound" style="display:none;">
+      <p>😕 Produto não encontrado.</p>
+      <a href="index.html" class="back-btn">← Voltar ao catálogo</a>
+    </div>
+  </main>
+
+  <footer>
+    <p>© 2026 CavEnergys — Latinhas importadas com 🖤</p>
+  </footer>
+
+  <script src="product.js"></script>
+</body>
+</html>

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>CavEnergys — Latinhas Importadas</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header>
+    <div class="header-inner">
+      <div class="logo">
+        <span class="logo-icon">⚡</span>
+        <span class="logo-text">Cav<strong>Energys</strong></span>
+      </div>
+      <p class="tagline">Latinhas raras do mundo todo, na sua mão.</p>
+    </div>
+  </header>
+
+  <main>
+    <section class="filters">
+      <input type="text" id="searchInput" placeholder="🔍 Buscar produto..." />
+      <div class="country-filters" id="countryFilters">
+        <button class="filter-btn active" data-country="all">Todos</button>
+      </div>
+    </section>
+
+    <section class="catalog" id="catalog">
+      <!-- Cards gerados dinamicamente pelo JS -->
+    </section>
+
+    <div class="empty-state" id="emptyState" style="display:none;">
+      <p>😕 Nenhum produto encontrado.</p>
+    </div>
+  </main>
+
+  <footer>
+    <p>© 2026 CavEnergys — Latinhas importadas com 🖤</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
