@@ -56,6 +56,28 @@
     "condition": "Lacrada sem amassados",
     "origin": "Importado dos EUA",
     "flag": "🇺🇸",
+    "image": "Images/locamoca.png",
+    "images": [
+      "Images/locamoca.png",
+      "Images/locamoca1.png",
+      "Images/locamoca2.png",
+      "Images/locamoca3.png"
+    ],
+    "video": "Videos/locamoca.mp4",
+    "availability": "Em Estoque"
+  },
+     {
+    "id": 3,
+    "name": "Monster Energy Java, Salted Caramel, Energy + Coffee, Energy Drink, 443ML",
+    "description": "Uma mistura premium feita para quem busca o despertar do café com o soco de energia da Monster. O Monster Java Salted Caramel combina o sabor robusto do café torrado com a suavidade sedosa do leite e o contraste perfeito do caramelo salgado. Menos doce que os energéticos tradicionais e incrivelmente cremoso, ele oferece uma experiência de sabor gourmet com a potência da cafeína para manter você focado e em movimento.",
+    "price": 170,
+    "currency": "BRL",
+    "country": "US",
+    "country_name": "Estados Unidos",
+    "production_date": "2026-01-01",
+    "condition": "Lacrada sem amassados",
+    "origin": "Importado dos EUA",
+    "flag": "🇺🇸",
     "image": "Images/saltedcaramel.png",
     "images": [
       "Images/saltedcaramel.png",
