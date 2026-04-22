@@ -44,7 +44,7 @@
     "video": "Videos/reservewatermelon.mp4",
     "availability": "Em Estoque"
   },
-   {
+  {
     "id": 3,
     "name": "Monster Energy Java, Loca Moca, Energy + Coffee, Energy Drink, 443ML",
     "description": "Monster Energy Java Loca Moca - Café Premium + Chocolate. Experimente a união perfeita do café real com a energia explosiva da Monster. Com uma textura cremosa, sabor sofisticado de chocolate mocha e sem gás, o Loca Moca é ideal para quem busca foco total e um sabor inigualável. Produto importado de alta qualidade, perfeito para colecionadores e para quem precisa de um boost de energia no dia a dia. Beba bem gelado! Volume: 443ml.",
@@ -66,8 +66,30 @@
     "video": "Videos/locamoca.mp4",
     "availability": "Em Estoque"
   },
-     {
+  {
     "id": 4,
+    "name": "Monster Energy Java, Salted Caramel, Energy + Coffee, Energy Drink, 443ML",
+    "description": "Uma mistura premium feita para quem busca o despertar do café com o soco de energia da Monster. O Monster Java Salted Caramel combina o sabor robusto do café torrado com a suavidade sedosa do leite e o contraste perfeito do caramelo salgado. Menos doce que os energéticos tradicionais e incrivelmente cremoso, ele oferece uma experiência de sabor gourmet com a potência da cafeína para manter você focado e em movimento.",
+    "price": 170,
+    "currency": "BRL",
+    "country": "US",
+    "country_name": "Estados Unidos",
+    "production_date": "2026-01-01",
+    "condition": "Lacrada sem amassados",
+    "origin": "Importado dos EUA",
+    "flag": "🇺🇸",
+    "image": "Images/saltedcaramel.png",
+    "images": [
+      "Images/saltedcaramel.png",
+      "Images/saltedcaramel1.png",
+      "Images/saltedcaramel2.png",
+      "Images/saltedcaramel3.png"
+    ],
+    "video": "Videos/saltedcaramel.mp4",
+    "availability": "Em Estoque"
+  },
+  {
+    "id": 5,
     "name": "Monster Energy Lando Norris Zero Cucku (Zero Açucar) Irlandesa 500ML",
     "description": "Edição especial e limitada Monster Energy Juiced Lando Norris LN4. Desenvolvida em colaboração com o piloto de Fórmula 1, esta versão de 500ml traz um sabor cítrico refrescante e leve, inspirado nas preferências de Lando. A lata apresenta um design exclusivo em amarelo neon e preto com a icônica logomarca LN4, sendo um item de destaque tanto pelo paladar quanto pelo valor colecionável para fãs de automobilismo. Contém o clássico combo energético de taurina, cafeína e vitaminas do complexo B.",
     "price": 30,
