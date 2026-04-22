@@ -101,7 +101,7 @@ function fillDetails(p) {
   document.getElementById('infoPrice').textContent       = formatPrice(p.price, p.currency);
   document.getElementById('badgeCondition').textContent  = `✅ ${p.condition}`;
   document.getElementById('badgeCountry2').textContent   = `${p.flag} ${p.country_name}`;
-  document.getElementById('infoDescription').textContent = p.description;
+  document.getElementById('infoDescription').innerHTML = p.description;
   document.getElementById('infoOrigin').textContent      = p.origin || '—';
   document.getElementById('infoDate').textContent        = formatDate(p.production_date);
   document.getElementById('infoCountryFull').textContent = `${p.flag} ${p.country_name}`;
